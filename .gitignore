@@ -1,0 +1,15 @@
+# Private financial backups
+DTC-SilverTouch-Backup-*.json
+
+# Exported reports
+DTC-SilverTouch-Report-*.csv
+DTC-SilverTouch-Statement-*.pdf
+
+# Private local files
+private/
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
